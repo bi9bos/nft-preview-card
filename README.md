@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://www.github.com/nft-preview-card-component)
-- Live Site URL: [Netlify](https://b9n-nft-card.netlify.app)
+- Live Site URL: [Netlify](https://nft-card-prev.netlify.app)
 
 ## My process
 
